@@ -14,7 +14,7 @@ Release:    0
 Group:      System/Libraries
 License:    LGPLv2
 URL:        http://github.com/nemomobile/quillimagefilters
-Source0:    %{name}s-%{version}.tar.gz
+Source0:    %{name}-%{version}.tar.gz
 Source100:  quillimagefilter-qt5.yaml
 Requires(post): /sbin/ldconfig
 Requires(postun): /sbin/ldconfig
