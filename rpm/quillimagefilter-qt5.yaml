@@ -19,6 +19,7 @@ PkgConfigBR:
     - quillmetadata-qt5
     - Qt5Core
     - Qt5Gui
+    - Qt5Test
 Configure: none
 Builder: qmake5
 Files:
